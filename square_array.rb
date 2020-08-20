@@ -4,5 +4,5 @@ def square_array(array)
     number ** 2
     square_array {number ** 2}
   end
-  puts new_array
+  
 end
