@@ -2,7 +2,7 @@ require 'pry'
 def square_array(array)
   array.each do |number|
     number ** 2
-    square_array 
+    square_array {number ** 2}
   end
   puts new_array
 end
