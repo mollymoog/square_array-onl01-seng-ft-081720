@@ -3,6 +3,7 @@ def square_array(array)
     new_numbers = number ** 2
     puts new_numbers
     square_array = []
+    
   end
   
 end
