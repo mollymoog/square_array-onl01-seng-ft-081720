@@ -3,5 +3,5 @@ def square_array(array)
     new_numbers = number ** 2
     puts new_numbers
   end
-
+  square_array(new_numbers)
 end
