@@ -3,6 +3,7 @@ def square_array(array)
     new_numbers = number ** 2
     Array.new (new_numbers)
     square_array = Array.new
+    puts square_array
   end
   
 end
