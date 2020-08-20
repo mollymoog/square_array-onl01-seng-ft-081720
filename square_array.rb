@@ -3,5 +3,6 @@ def square_array(array)
     square_array = []
     square_array << (#{number} * #{number})
   end
+  end
   
 end
