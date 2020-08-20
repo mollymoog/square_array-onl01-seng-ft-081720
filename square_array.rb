@@ -5,5 +5,5 @@ def square_array(array)
     Array.new (new_numbers)
     
   end
-  
+  square_array = Array.new
 end
